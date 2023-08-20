@@ -10,4 +10,4 @@ This GitHub repository hosts the code and resources for predicting the closing p
 - Model Selection: We explore and compare various machine learning algorithms, such as linear regression, support vector machines, and deep learning, to determine the best-fit model.
 - Model Training: The selected model is trained on historical data, optimizing its parameters to achieve the highest predictive accuracy.
 - Evaluation Metrics: We employ appropriate evaluation metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) to quantify the model's performance.
-- Predictive Web App (Optional): As an extension, we might develop a user-friendly web application that provides real-time stock price predictions and visualizations.
+- Future Scope: As an extension, we might develop a user-friendly web application that provides real-time stock price predictions and visualizations.
